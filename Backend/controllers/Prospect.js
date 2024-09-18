@@ -1,5 +1,4 @@
 const Prospect = require("../models/Prospect");
-const Prospect = require("../models/Prospect");
 
 
 const createProspect = async (req, res) => {

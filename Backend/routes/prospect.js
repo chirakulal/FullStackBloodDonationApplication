@@ -13,3 +13,5 @@ router.delete("/:id", deleteProspect);
 
 router.post("/find/:id", getOneProspect);
 
+module.exports = router;
+
